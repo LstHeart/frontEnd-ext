@@ -1,0 +1,51 @@
+{
+    "name": "frontend-ext",
+    "displayName": "frontEnd-ext",
+    "description": "前端开发常用 VSCode 插件",
+    "version": "0.0.1",
+    "publisher": "lstheart",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-complete-tag",
+        "RogerChi.vsce-gitkeep",
+        "alefragnani.Bookmarks",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "maximus136.change-string-case",
+        "MS-CEINTL.vscode-language-pack-zh-hans",
+        "streetsidesoftware.code-spell-checker",
+        "kisstkondoros.vscode-codemetrics",
+        "bierner.color-info",
+        "bierner.comment-tagged-templates",
+        "pranaygp.vscode-css-peek",
+        "msjsdiag.debugger-for-chrome",
+        "janisdd.vscode-edit-csv",
+        "EditorConfig.EditorConfig",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "DavidAnson.vscode-markdownlint",
+        "PKief.material-icon-theme",
+        "ryu1kn.partial-diff",
+        "Gruntfuggly.todo-tree",
+        "mrmlnc.vscode-scss",
+        "sibiraj-s.vscode-scss-formatter",
+        "cssho.vscode-svgviewer",
+        "deerawan.vscode-faker",
+        "DotJoshJohnson.xml",
+        "georgejames.thefoldingstuff",
+        "hediet.realtime-debugging",
+        "jock.svg",
+        "johnsoncodehk.volar",
+        "mariorodeghiero.vue-theme",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "octref.vetur",
+        "quicktype.quicktype",
+        "redhat.vscode-commons",
+        "vscode-icons-team.vscode-icons"
+    ]
+}
