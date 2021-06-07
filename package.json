@@ -4,6 +4,9 @@
     "description": "前端开发常用 VSCode 插件",
     "version": "0.0.1",
     "publisher": "lstheart",
+    "repository": {
+        "url": "https://github.com/LstHeart/frontEnd-ext"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
