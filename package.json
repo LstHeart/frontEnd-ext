@@ -2,7 +2,7 @@
     "name": "frontend-ext",
     "displayName": "frontEnd-ext",
     "description": "前端开发常用 VSCode 插件",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "lstheart",
     "repository": {
         "url": "https://github.com/LstHeart/frontEnd-ext"
